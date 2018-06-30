@@ -1,0 +1,9 @@
+.sfdx
+.vim-force.com
+.vscode
+config
+mdapipkg
+force-app
+logs
+scripts
+.forceignore
