@@ -7,17 +7,17 @@
 
 ## Dev, Build and Test
 
-Dev - pull changes from org into local workspace  `. pull.sh`
-Build - push changes into Sandbox Org `. push.sh`
+- Dev - pull changes from org into local workspace  `. pull.sh`  
+- Build - push changes into Sandbox Org `. push.sh`  
 or
-Build - push changes into Sandbox Org `node deploy.js`
-Test - To be added
+- Build - push changes into Sandbox Org `node deploy.js`  (update username in ln 6)
+- Test - To be added
 
 ## Other commands
 
-Create & configure Build Task in VSCode to trigger `node deploy.js`
-Manually clean up org list `cd ~/.sfdx` - be careful
-Kill running process `kill -9 $(lsof -t -i :1717)`
+- Create & configure Build Task in VSCode to trigger `node deploy.js`
+- Manually clean up org list `cd ~/.sfdx` - be careful
+- Kill running process `kill -9 $(lsof -t -i :1717)`
 
 ## Description of Files and Directories
 - To be added
