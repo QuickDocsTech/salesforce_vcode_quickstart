@@ -20,7 +20,12 @@ or
 - Kill running process `kill -9 $(lsof -t -i :1717)`
 
 ## Description of Files and Directories
+
 - To be added
 
+## Downloads & Sources
+- https://code.visualstudio.com/download
+- https://developer.salesforce.com/tools/sfdxcli
+- https://gearset.com/product/sfdx?gclid=EAIaIQobChMI98mW5KP72wIVATgbCh3b_AN7EAAYASAAEgKUYPD_BwE
 
 
